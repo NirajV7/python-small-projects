@@ -1,0 +1,22 @@
+word_list = [
+    "python",
+    "programming",
+    "computer",
+    "algorithm",
+    "database",
+    "network",
+    "software",
+    "developer",
+    "keyboard",
+    "monitor",
+    "function",
+    "variable",
+    "internet",
+    "security",
+    "browser",
+    "application",
+    "system",
+    "coding",
+    "debug",
+    "server"
+]
